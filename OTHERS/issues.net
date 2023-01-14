@@ -1,28 +1,33 @@
-<!--- Autoscript By Vinstechmy --->
+<!-- HTML Codes by Quackit.com -->
+<!DOCTYPE html>
+<title>Text Example</title>
+<style>
+div.container {
+background-color: #ffffff;
+}
+div.container p {
+font-family: Arial;
+font-size: 14px;
+font-style: normal;
+font-weight: bold;
+text-decoration: none;
+text-transform: uppercase;
+color: #2e96d6;
+background-color: #ffffff;
+}
+</style>
 
-<font color="white">
-<H3 style="text-align:center"><span style="background-color:red">
-🚀 Unlimited 13.1 🚀</span></H3>
-
-<H3 style="text-align:center"><span style="background-color: #0000ff;">
-🚀 NO DDOS 🚀</span></H3>
-
-<H3 style="text-align:center"><span style="background-color: #0000ff;">
-🚀 NO HACKING 🚀</span></H3>
-
-<H3 style="text-align:center"><span style="background-color: #0000ff;">
-🚀 NO TORRENT 🚀</span></H3>
-
-<H3 style="text-align:center"><span style="background-color: #0000ff;">
-🚀 NO SPAMMING 🚀</span></H3>
-
-<H3 style="text-align:center"><span style="background-color: #0000ff;">
-🚀 For Private server msg @troy007_bot 🚀</span></H3>
-
-<H3 style="text-align:center"><span style="background-color:red">
-🚀 Channel @mirrorupdatesnnews 🚀</span></H3>
-<font>
-
-<H3 style="text-align:center"><span style="background-color:red">
-🚀 By @trOy007_bot 🚀</span></H3>
-<font>
+<div class="container">
+<p> Mirror Updates N News Presentation</p>
+<p>__________________________________________</p>
+<p></p>
+<p>◘No Hacking</p>
+<p>◘No DDOS</p>
+<p>◘No Carding</p>
+<p>○Support Multi Login</p>
+<p>○If low speed report @troy007_bot</p>
+<p>__________________________________________</p>
+<p>For updates Visit @mirrorupdatesnnews</p>
+<p>__________________________________________</p>
+<p></p>
+</div>
